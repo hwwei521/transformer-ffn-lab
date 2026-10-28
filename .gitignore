@@ -1,0 +1,14 @@
+# ===== 运行产物(可由脚本随时重新生成,不入库)=====
+logs/
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== 文档不入库(与 c_cpp_elf_demo 仓库约定一致)=====
+*.md
+
+# ===== 系统/编辑器杂项 =====
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
